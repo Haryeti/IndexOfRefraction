@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Haryeti/IndexOfRefraction/static/css/main.0cdbf190.css",
+    "main.js": "/Haryeti/IndexOfRefraction/static/js/main.c6a95a57.js",
+    "static/js/453.b6b9416e.chunk.js": "/Haryeti/IndexOfRefraction/static/js/453.b6b9416e.chunk.js",
+    "index.html": "/Haryeti/IndexOfRefraction/index.html",
+    "main.0cdbf190.css.map": "/Haryeti/IndexOfRefraction/static/css/main.0cdbf190.css.map",
+    "main.c6a95a57.js.map": "/Haryeti/IndexOfRefraction/static/js/main.c6a95a57.js.map",
+    "453.b6b9416e.chunk.js.map": "/Haryeti/IndexOfRefraction/static/js/453.b6b9416e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cdbf190.css",
+    "static/js/main.c6a95a57.js"
+  ]
+}
